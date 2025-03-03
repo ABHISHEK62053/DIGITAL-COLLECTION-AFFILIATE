@@ -1,0 +1,24 @@
+/**
+ | using backend programming language
+ */
+[*] Backend: PHP
+
+/**
+ | using frontend programming language
+ */
+[*] Frontend: HTML, CSS, Javascript
+
+/**
+ | using website server side database
+ */
+[*] Database: phpMyAdmin, [driver:mysql]
+
+/**
+ | using data fetching request api type
+ */
+[*] API: json
+
+/**
+ | using environment variable file type
+ */
+[*] Environment variable: .env

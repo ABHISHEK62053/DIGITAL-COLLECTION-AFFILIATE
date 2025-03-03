@@ -1,0 +1,44 @@
+{
+   "short_name": "DCA",
+   "name": "DIGITAL COLLECTION AFFILIATE",
+   "theme_color": "#0866aa",
+   "background_color": "#dddddd",
+   "id": "/?source=1",
+   "start_url": "/",
+   "display": "minimal-ui",
+   "gcm_user_visible_only": true,
+   "edge_side_panel": {
+      "preferred_width": 376
+   },
+   "icons": [
+      {
+         "src": "/internal/icon/dca_favicon.ico",
+         "type": "image/ico",
+         "sizes": "32x32"
+      },
+      {
+         "src": "/internal/icon/dca_logo.png",
+         "type": "image/png",
+         "sizes": "200x200"
+      },
+      {
+         "src": "/internal/icon/dca_vector.svg",
+         "type": "image/svg",
+         "sizes": "267x267"
+      },
+      {
+         "src": "/internal/icon/dca_logo-180x180.png",
+         "type": "image/png",
+         "sizes": "180x180"
+      },
+      {
+         "src": "/internal/icon/dca_logo-512x512.png",
+         "type": "image/png",
+         "sizes": "512x512"
+      }
+   ],
+   "orientation": "portrait",
+   "scope": "/",
+   "description": "Advertisement and online earning Webapplication",
+   "author": "PRO Modassir"
+}
